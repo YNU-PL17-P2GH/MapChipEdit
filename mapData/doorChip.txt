@@ -1,0 +1,16 @@
+chipData 15 2432 512
+sf-ob-door01 0 0
+sf-ob-door02 384 0
+sf-ob-door03 768 0
+sf-ob-door04 1152 0
+sf-ob-door05 1536 0
+sf-ob-door06 1920 0
+sf-ob-door15 2304 0
+sf-ob-door08 0 256
+sf-ob-door09 384 256
+sf-ob-door10 768 256
+sf-ob-door11 896 256
+sf-ob-door12 1280 256
+sf-ob-door13 1664 256
+sf-ob-door14 1792 256
+sf-ob-door07 1920 256
