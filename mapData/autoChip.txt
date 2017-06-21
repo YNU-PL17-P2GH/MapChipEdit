@@ -1,0 +1,8 @@
+chipData 7 608 128
+sf-at01 0 0
+sf-at02 0 32
+sf-at-yuka01 128 0
+sf-at-yuka02 224 0
+sf-at-yuka03 320 0
+sf-at-yuka04 416 0
+sf-ceiling01 512 0

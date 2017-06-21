@@ -1,0 +1,4 @@
+folderData 3
+auto
+mapchip
+door
